@@ -13,8 +13,8 @@
 ## Установка
 
 pip install -r requirements.txt
-
-3. В корень залить `.env`
+1. Установить зависимости: pip install -r requirements.txt
+2. В корень залить `.env`
 
 ## Запуск
 
